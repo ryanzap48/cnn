@@ -1,0 +1,418 @@
+Total unique templates: 104
+
+
+[1] Count: 59980
+Template: The risk or severity of adverse effects can be DIRECTION when DRUG_A is combined with DRUG_B.
+--------------------------------------------------------------------------------
+
+[2] Count: 39293
+Template: The metabolism of DRUG_B can be DIRECTION when combined with DRUG_A.
+--------------------------------------------------------------------------------
+
+[3] Count: 33077
+Template: The serum concentration of DRUG_B can be DIRECTION when it is combined with DRUG_A.
+--------------------------------------------------------------------------------
+
+[4] Count: 8145
+Template: DRUG_A may DIRECTION the hypotensive activities of DRUG_B.
+--------------------------------------------------------------------------------
+
+[5] Count: 7902
+Template: The therapeutic efficacy of DRUG_B can be DIRECTION when used in combination with DRUG_A.
+--------------------------------------------------------------------------------
+
+[6] Count: 6137
+Template: DRUG_A may DIRECTION the QTc-prolonging activities of DRUG_B.
+--------------------------------------------------------------------------------
+
+[7] Count: 5391
+Template: DRUG_A may DIRECTION the central nervous system depressant (CNS depressant) activities of DRUG_B.
+--------------------------------------------------------------------------------
+
+[8] Count: 3702
+Template: DRUG_A may DIRECTION the antihypertensive activities of DRUG_B.
+--------------------------------------------------------------------------------
+
+[9] Count: 3280
+Template: DRUG_A may DIRECTION the anticoagulant activities of DRUG_B.
+--------------------------------------------------------------------------------
+
+[10] Count: 2109
+Template: DRUG_A may DIRECTION the hypoglycemic activities of DRUG_B.
+--------------------------------------------------------------------------------
+
+[11] Count: 1814
+Template: DRUG_A may DIRECTION the excretion rate of DRUG_B which could result in a higher serum level.
+--------------------------------------------------------------------------------
+
+[12] Count: 1565
+Template: DRUG_A may DIRECTION the sedative activities of DRUG_B.
+--------------------------------------------------------------------------------
+
+[13] Count: 1276
+Template: DRUG_A may DIRECTION the bradycardic activities of DRUG_B.
+--------------------------------------------------------------------------------
+
+[14] Count: 1233
+Template: DRUG_A may DIRECTION the cardiotoxic activities of DRUG_B.
+--------------------------------------------------------------------------------
+
+[15] Count: 1130
+Template: DRUG_A may DIRECTION the hypokalemic activities of DRUG_B.
+--------------------------------------------------------------------------------
+
+[16] Count: 936
+Template: DRUG_A may DIRECTION the neuroexcitatory activities of DRUG_B.
+--------------------------------------------------------------------------------
+
+[17] Count: 838
+Template: DRUG_A can cause a DIRECTION in the absorption of DRUG_B resulting in a DIRECTION serum concentration and potentially a DIRECTION in efficacy.
+--------------------------------------------------------------------------------
+
+[18] Count: 792
+Template: DRUG_A may DIRECTION the serotonergic activities of DRUG_B.
+--------------------------------------------------------------------------------
+
+[19] Count: 716
+Template: DRUG_A may DIRECTION the atrioventricular blocking (AV block) activities of DRUG_B.
+--------------------------------------------------------------------------------
+
+[20] Count: 673
+Template: DRUG_A may DIRECTION the hypertensive activities of DRUG_B.
+--------------------------------------------------------------------------------
+
+[21] Count: 660
+Template: DRUG_A may DIRECTION the nephrotoxic activities of DRUG_B.
+--------------------------------------------------------------------------------
+
+[22] Count: 601
+Template: DRUG_A may DIRECTION the orthostatic hypotensive activities of DRUG_B.
+--------------------------------------------------------------------------------
+
+[23] Count: 554
+Template: DRUG_A may DIRECTION the stimulatory activities of DRUG_B.
+--------------------------------------------------------------------------------
+
+[24] Count: 537
+Template: The serum concentration of the active metabolites of DRUG_B can be DIRECTION when DRUG_B is used in combination with DRUG_A.
+--------------------------------------------------------------------------------
+
+[25] Count: 529
+Template: The bioavailability of DRUG_B can be DIRECTION when combined with DRUG_A.
+--------------------------------------------------------------------------------
+
+[26] Count: 471
+Template: DRUG_A may DIRECTION the neuromuscular blocking activities of DRUG_B.
+--------------------------------------------------------------------------------
+
+[27] Count: 441
+Template: The risk or severity of QTc prolongation can be DIRECTION when DRUG_A is combined with DRUG_B.
+--------------------------------------------------------------------------------
+
+[28] Count: 422
+Template: DRUG_A may DIRECTION the fluid retaining activities of DRUG_B.
+--------------------------------------------------------------------------------
+
+[29] Count: 418
+Template: DRUG_A may DIRECTION the vasoconstricting activities of DRUG_B.
+--------------------------------------------------------------------------------
+
+[30] Count: 372
+Template: DRUG_A may DIRECTION the tachycardic activities of DRUG_B.
+--------------------------------------------------------------------------------
+
+[31] Count: 361
+Template: DRUG_A may DIRECTION the bronchodilatory activities of DRUG_B.
+--------------------------------------------------------------------------------
+
+[32] Count: 349
+Template: DRUG_A may DIRECTION the arrhythmogenic activities of DRUG_B.
+--------------------------------------------------------------------------------
+
+[33] Count: 343
+Template: DRUG_A may DIRECTION the antiplatelet activities of DRUG_B.
+--------------------------------------------------------------------------------
+
+[34] Count: 324
+Template: DRUG_A may DIRECTION the diuretic activities of DRUG_B.
+--------------------------------------------------------------------------------
+
+[35] Count: 323
+Template: DRUG_A may DIRECTION the anticholinergic activities of DRUG_B.
+--------------------------------------------------------------------------------
+
+[36] Count: 312
+Template: DRUG_A may DIRECTION the immunosuppressive activities of DRUG_B.
+--------------------------------------------------------------------------------
+
+[37] Count: 311
+Template: The serum concentration of the active metabolites of DRUG_B can be DIRECTION when DRUG_B is used in combination with DRUG_A resulting in a loss in efficacy.
+--------------------------------------------------------------------------------
+
+[38] Count: 280
+Template: DRUG_A may DIRECTION the analgesic activities of DRUG_B.
+--------------------------------------------------------------------------------
+
+[39] Count: 280
+Template: DRUG_A may DIRECTION the respiratory depressant activities of DRUG_B.
+--------------------------------------------------------------------------------
+
+[40] Count: 278
+Template: DRUG_A may DIRECTION the hyperkalemic activities of DRUG_B.
+--------------------------------------------------------------------------------
+
+[41] Count: 180
+Template: DRUG_A may DIRECTION the hypocalcemic activities of DRUG_B.
+--------------------------------------------------------------------------------
+
+[42] Count: 146
+Template: DRUG_A may DIRECTION the constipating activities of DRUG_B.
+--------------------------------------------------------------------------------
+
+[43] Count: 126
+Template: The risk or severity of bleeding can be DIRECTION when DRUG_A is combined with DRUG_B.
+--------------------------------------------------------------------------------
+
+[44] Count: 108
+Template: DRUG_A may DIRECTION the thrombogenic activities of DRUG_B.
+--------------------------------------------------------------------------------
+
+[45] Count: 106
+Template: DRUG_A may DIRECTION the hyponatremic activities of DRUG_B.
+--------------------------------------------------------------------------------
+
+[46] Count: 94
+Template: DRUG_A may DIRECTION the antipsychotic activities of DRUG_B.
+--------------------------------------------------------------------------------
+
+[47] Count: 94
+Template: DRUG_A may DIRECTION the adverse neuromuscular activities of DRUG_B.
+--------------------------------------------------------------------------------
+
+[48] Count: 82
+Template: DRUG_A can cause an DIRECTION in the absorption of DRUG_B resulting in an DIRECTION serum concentration and potentially a worsening of adverse effects.
+--------------------------------------------------------------------------------
+
+[49] Count: 76
+Template: DRUG_A may DIRECTION the hypercalcemic activities of DRUG_B.
+--------------------------------------------------------------------------------
+
+[50] Count: 69
+Template: DRUG_A may DIRECTION the myopathic rhabdomyolysis activities of DRUG_B.
+--------------------------------------------------------------------------------
+
+[51] Count: 69
+Template: DRUG_A may DIRECTION the neurotoxic activities of DRUG_B.
+--------------------------------------------------------------------------------
+
+[52] Count: 65
+Template: DRUG_A may DIRECTION the vasopressor activities of DRUG_B.
+--------------------------------------------------------------------------------
+
+[53] Count: 52
+Template: DRUG_A may DIRECTION the hepatotoxic activities of DRUG_B.
+--------------------------------------------------------------------------------
+
+[54] Count: 45
+Template: The absorption of DRUG_B can be DIRECTION when combined with DRUG_A.
+--------------------------------------------------------------------------------
+
+[55] Count: 43
+Template: DRUG_A may DIRECTION the ulcerogenic activities of DRUG_B.
+--------------------------------------------------------------------------------
+
+[56] Count: 34
+Template: DRUG_A may DIRECTION the myelosuppressive activities of DRUG_B.
+--------------------------------------------------------------------------------
+
+[57] Count: 33
+Template: DRUG_A may DIRECTION effectiveness of DRUG_B as a diagnostic agent.
+--------------------------------------------------------------------------------
+
+[58] Count: 33
+Template: DRUG_A may DIRECTION the vasodilatory activities of DRUG_B.
+--------------------------------------------------------------------------------
+
+[59] Count: 31
+Template: DRUG_A may DIRECTION the excretion rate of DRUG_B which could result in a DIRECTION serum level and potentially a reduction in efficacy.
+--------------------------------------------------------------------------------
+
+[60] Count: 31
+Template: The risk or severity of hypotension can be DIRECTION when DRUG_A is combined with DRUG_B.
+--------------------------------------------------------------------------------
+
+[61] Count: 28
+Template: DRUG_A may DIRECTION the hyperglycemic activities of DRUG_B.
+--------------------------------------------------------------------------------
+
+[62] Count: 27
+Template: DRUG_A may DIRECTION the central nervous system depressant (CNS depressant) and hypertensive activities of DRUG_B.
+--------------------------------------------------------------------------------
+
+[63] Count: 26
+Template: DRUG_A may DIRECTION the bronchoconstrictory activities of DRUG_B.
+--------------------------------------------------------------------------------
+
+[64] Count: 26
+Template: The risk of a hypersensitivity reaction to DRUG_B is DIRECTION when it is combined with DRUG_A.
+--------------------------------------------------------------------------------
+
+[65] Count: 26
+Template: The risk or severity of heart failure can be DIRECTION when DRUG_B is combined with DRUG_A.
+--------------------------------------------------------------------------------
+
+[66] Count: 21
+Template: DRUG_A may DIRECTION the ototoxic activities of DRUG_B.
+--------------------------------------------------------------------------------
+
+[67] Count: 14
+Template: DRUG_A may DIRECTION the hypotensive and central nervous system depressant (CNS depressant) activities of DRUG_B.
+--------------------------------------------------------------------------------
+
+[68] Count: 14
+Template: The risk or severity of hypertension can be DIRECTION when DRUG_B is combined with DRUG_A.
+--------------------------------------------------------------------------------
+
+[69] Count: 13
+Template: DRUG_A may DIRECTION the central neurotoxic activities of DRUG_B.
+--------------------------------------------------------------------------------
+
+[70] Count: 11
+Template: DRUG_A may DIRECTION the dermatologic adverse activities of DRUG_B.
+--------------------------------------------------------------------------------
+
+[71] Count: 11
+Template: The protein binding of DRUG_B can be DIRECTION when combined with DRUG_A.
+--------------------------------------------------------------------------------
+
+[72] Count: 6
+Template: The risk or severity of hyperkalemia can be DIRECTION when DRUG_A is combined with DRUG_B.
+--------------------------------------------------------------------------------
+
+[73] Count: 3
+Template: The risk or severity of adverse effects can be DIRECTION when DRUG_A is combined with LevoDRUG_A.
+--------------------------------------------------------------------------------
+
+[74] Count: 2
+Template: The risk or severity of adverse effects can be DIRECTION when DRUG_A is combined with MethylDRUG_A.
+--------------------------------------------------------------------------------
+
+[75] Count: 2
+Template: The risk or severity of adverse effects can be DIRECTION when DRUG_A is combined with FluDRUG_A.
+--------------------------------------------------------------------------------
+
+[76] Count: 2
+Template: The risk or severity of adverse effects can be DIRECTION when DRUG_A is combined with DesDRUG_A.
+--------------------------------------------------------------------------------
+
+[77] Count: 1
+Template: DRUG_A may DIRECTION the QTc-prolonging activities of LevDRUG_A.
+--------------------------------------------------------------------------------
+
+[78] Count: 1
+Template: The serum concentration of FosDRUG_A can be DIRECTION when it is combined with DRUG_A.
+--------------------------------------------------------------------------------
+
+[79] Count: 1
+Template: The risk or severity of adverse effects can be DIRECTION when DRUG_A is combined with HydroDRUG_A.
+--------------------------------------------------------------------------------
+
+[80] Count: 1
+Template: The metabolism of FosDRUG_A can be DIRECTION when combined with DRUG_A.
+--------------------------------------------------------------------------------
+
+[81] Count: 1
+Template: The risk or severity of adverse effects can be DIRECTION when DRUG_A is combined with ButylDRUG_A.
+--------------------------------------------------------------------------------
+
+[82] Count: 1
+Template: The risk or severity of adverse effects can be DIRECTION when DRUG_A is combined with MethDRUG_A.
+--------------------------------------------------------------------------------
+
+[83] Count: 1
+Template: The risk or severity of adverse effects can be DIRECTION when DRUG_A is combined with ApraDRUG_A.
+--------------------------------------------------------------------------------
+
+[84] Count: 1
+Template: DRUG_A may DIRECTION the QTc-prolonging activities of CiprDRUG_A.
+--------------------------------------------------------------------------------
+
+[85] Count: 1
+Template: The risk or severity of adverse effects can be DIRECTION when DRUG_A is combined with DiaDRUG_A.
+--------------------------------------------------------------------------------
+
+[86] Count: 1
+Template: The risk or severity of adverse effects can be DIRECTION when DRUG_A is combined with NorDRUG_A.
+--------------------------------------------------------------------------------
+
+[87] Count: 1
+Template: The risk or severity of adverse effects can be DIRECTION when DRUG_A is combined with DRUG_A bromide.
+--------------------------------------------------------------------------------
+
+[88] Count: 1
+Template: The risk or severity of adverse effects can be DIRECTION when DRUG_A is combined with MethDRUG_A bromide.
+--------------------------------------------------------------------------------
+
+[89] Count: 1
+Template: The risk or severity of adverse effects can be DIRECTION when DRUG_A is combined with TrDRUG_A.
+--------------------------------------------------------------------------------
+
+[90] Count: 1
+Template: The risk or severity of adverse effects can be DIRECTION when DRUG_A is combined with ChloroDRUG_A.
+--------------------------------------------------------------------------------
+
+[91] Count: 1
+Template: The risk or severity of adverse effects can be DIRECTION when DRUG_A is combined with OxybuDRUG_A.
+--------------------------------------------------------------------------------
+
+[92] Count: 1
+Template: The risk or severity of adverse effects can be DIRECTION when DRUG_A is combined with DRUG_A enacarbil.
+--------------------------------------------------------------------------------
+
+[93] Count: 1
+Template: The metabolism of MethylDRUG_A can be DIRECTION when combined with DRUG_A.
+--------------------------------------------------------------------------------
+
+[94] Count: 1
+Template: The risk or severity of adverse effects can be DIRECTION when DRUG_A is combined with FosDRUG_A.
+--------------------------------------------------------------------------------
+
+[95] Count: 1
+Template: The risk or severity of adverse effects can be DIRECTION when DRUG_A is combined with AceDRUG_A.
+--------------------------------------------------------------------------------
+
+[96] Count: 1
+Template: The risk or severity of adverse effects can be DIRECTION when DRUG_A is combined with TrifluDRUG_A.
+--------------------------------------------------------------------------------
+
+[97] Count: 1
+Template: The risk or severity of adverse effects can be DIRECTION when DRUG_A is combined with EthylDRUG_A.
+--------------------------------------------------------------------------------
+
+[98] Count: 1
+Template: DRUG_A may DIRECTION the hypotensive activities of DRUG_Aat.
+--------------------------------------------------------------------------------
+
+[99] Count: 1
+Template: The risk or severity of adverse effects can be DIRECTION when DRUG_A is combined with DihydroDRUG_A.
+--------------------------------------------------------------------------------
+
+[100] Count: 1
+Template: The risk or severity of adverse effects can be DIRECTION when DRUG_A is combined with EsDRUG_A.
+--------------------------------------------------------------------------------
+
+[101] Count: 1
+Template: The risk or severity of adverse effects can be DIRECTION when DRUG_A is combined with MeDRUG_A.
+--------------------------------------------------------------------------------
+
+[102] Count: 1
+Template: The risk or severity of adverse effects can be DIRECTION when DRUG_A is combined with PseudoDRUG_A.
+--------------------------------------------------------------------------------
+
+[103] Count: 1
+Template: The risk or severity of adverse effects can be DIRECTION when DRUG_A is combined with HydroxyDRUG_A.
+--------------------------------------------------------------------------------
+
+[104] Count: 1
+Template: DRUG_A may DIRECTION the excretion rate of UrsodeoxyDRUG_A which could result in a higher serum level.
+--------------------------------------------------------------------------------

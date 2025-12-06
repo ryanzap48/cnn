@@ -1,0 +1,104 @@
+1. DRUG_A can cause a DIRECTION in the absorption of DRUG_B resulting in a DIRECTION serum concentration and potentially a DIRECTION in efficacy.
+2. DRUG_A can cause an DIRECTION in the absorption of DRUG_B resulting in an DIRECTION serum concentration and potentially a worsening of adverse effects.
+3. DRUG_A may DIRECTION effectiveness of DRUG_B as a diagnostic agent.
+4. DRUG_A may DIRECTION the QTc-prolonging activities of CiprDRUG_A.
+5. DRUG_A may DIRECTION the QTc-prolonging activities of DRUG_B.
+6. DRUG_A may DIRECTION the QTc-prolonging activities of LevDRUG_A.
+7. DRUG_A may DIRECTION the adverse neuromuscular activities of DRUG_B.
+8. DRUG_A may DIRECTION the analgesic activities of DRUG_B.
+9. DRUG_A may DIRECTION the anticholinergic activities of DRUG_B.
+10. DRUG_A may DIRECTION the anticoagulant activities of DRUG_B.
+11. DRUG_A may DIRECTION the antihypertensive activities of DRUG_B.
+12. DRUG_A may DIRECTION the antiplatelet activities of DRUG_B.
+13. DRUG_A may DIRECTION the antipsychotic activities of DRUG_B.
+14. DRUG_A may DIRECTION the arrhythmogenic activities of DRUG_B.
+15. DRUG_A may DIRECTION the atrioventricular blocking (AV block) activities of DRUG_B.
+16. DRUG_A may DIRECTION the bradycardic activities of DRUG_B.
+17. DRUG_A may DIRECTION the bronchoconstrictory activities of DRUG_B.
+18. DRUG_A may DIRECTION the bronchodilatory activities of DRUG_B.
+19. DRUG_A may DIRECTION the cardiotoxic activities of DRUG_B.
+20. DRUG_A may DIRECTION the central nervous system depressant (CNS depressant) activities of DRUG_B.
+21. DRUG_A may DIRECTION the central nervous system depressant (CNS depressant) and hypertensive activities of DRUG_B.
+22. DRUG_A may DIRECTION the central neurotoxic activities of DRUG_B.
+23. DRUG_A may DIRECTION the constipating activities of DRUG_B.
+24. DRUG_A may DIRECTION the dermatologic adverse activities of DRUG_B.
+25. DRUG_A may DIRECTION the diuretic activities of DRUG_B.
+26. DRUG_A may DIRECTION the excretion rate of DRUG_B which could result in a DIRECTION serum level and potentially a reduction in efficacy.
+27. DRUG_A may DIRECTION the excretion rate of DRUG_B which could result in a higher serum level.
+28. DRUG_A may DIRECTION the excretion rate of UrsodeoxyDRUG_A which could result in a higher serum level.
+29. DRUG_A may DIRECTION the fluid retaining activities of DRUG_B.
+30. DRUG_A may DIRECTION the hepatotoxic activities of DRUG_B.
+31. DRUG_A may DIRECTION the hypercalcemic activities of DRUG_B.
+32. DRUG_A may DIRECTION the hyperglycemic activities of DRUG_B.
+33. DRUG_A may DIRECTION the hyperkalemic activities of DRUG_B.
+34. DRUG_A may DIRECTION the hypertensive activities of DRUG_B.
+35. DRUG_A may DIRECTION the hypocalcemic activities of DRUG_B.
+36. DRUG_A may DIRECTION the hypoglycemic activities of DRUG_B.
+37. DRUG_A may DIRECTION the hypokalemic activities of DRUG_B.
+38. DRUG_A may DIRECTION the hyponatremic activities of DRUG_B.
+39. DRUG_A may DIRECTION the hypotensive activities of DRUG_Aat.
+40. DRUG_A may DIRECTION the hypotensive activities of DRUG_B.
+41. DRUG_A may DIRECTION the hypotensive and central nervous system depressant (CNS depressant) activities of DRUG_B.
+42. DRUG_A may DIRECTION the immunosuppressive activities of DRUG_B.
+43. DRUG_A may DIRECTION the myelosuppressive activities of DRUG_B.
+44. DRUG_A may DIRECTION the myopathic rhabdomyolysis activities of DRUG_B.
+45. DRUG_A may DIRECTION the nephrotoxic activities of DRUG_B.
+46. DRUG_A may DIRECTION the neuroexcitatory activities of DRUG_B.
+47. DRUG_A may DIRECTION the neuromuscular blocking activities of DRUG_B.
+48. DRUG_A may DIRECTION the neurotoxic activities of DRUG_B.
+49. DRUG_A may DIRECTION the orthostatic hypotensive activities of DRUG_B.
+50. DRUG_A may DIRECTION the ototoxic activities of DRUG_B.
+51. DRUG_A may DIRECTION the respiratory depressant activities of DRUG_B.
+52. DRUG_A may DIRECTION the sedative activities of DRUG_B.
+53. DRUG_A may DIRECTION the serotonergic activities of DRUG_B.
+54. DRUG_A may DIRECTION the stimulatory activities of DRUG_B.
+55. DRUG_A may DIRECTION the tachycardic activities of DRUG_B.
+56. DRUG_A may DIRECTION the thrombogenic activities of DRUG_B.
+57. DRUG_A may DIRECTION the ulcerogenic activities of DRUG_B.
+58. DRUG_A may DIRECTION the vasoconstricting activities of DRUG_B.
+59. DRUG_A may DIRECTION the vasodilatory activities of DRUG_B.
+60. DRUG_A may DIRECTION the vasopressor activities of DRUG_B.
+61. The absorption of DRUG_B can be DIRECTION when combined with DRUG_A.
+62. The bioavailability of DRUG_B can be DIRECTION when combined with DRUG_A.
+63. The metabolism of DRUG_B can be DIRECTION when combined with DRUG_A.
+64. The metabolism of FosDRUG_A can be DIRECTION when combined with DRUG_A.
+65. The metabolism of MethylDRUG_A can be DIRECTION when combined with DRUG_A.
+66. The protein binding of DRUG_B can be DIRECTION when combined with DRUG_A.
+67. The risk of a hypersensitivity reaction to DRUG_B is DIRECTION when it is combined with DRUG_A.
+68. The risk or severity of QTc prolongation can be DIRECTION when DRUG_A is combined with DRUG_B.
+69. The risk or severity of adverse effects can be DIRECTION when DRUG_A is combined with AceDRUG_A.
+70. The risk or severity of adverse effects can be DIRECTION when DRUG_A is combined with ApraDRUG_A.
+71. The risk or severity of adverse effects can be DIRECTION when DRUG_A is combined with ButylDRUG_A.
+72. The risk or severity of adverse effects can be DIRECTION when DRUG_A is combined with ChloroDRUG_A.
+73. The risk or severity of adverse effects can be DIRECTION when DRUG_A is combined with DRUG_A bromide.
+74. The risk or severity of adverse effects can be DIRECTION when DRUG_A is combined with DRUG_A enacarbil.
+75. The risk or severity of adverse effects can be DIRECTION when DRUG_A is combined with DRUG_B.
+76. The risk or severity of adverse effects can be DIRECTION when DRUG_A is combined with DesDRUG_A.
+77. The risk or severity of adverse effects can be DIRECTION when DRUG_A is combined with DiaDRUG_A.
+78. The risk or severity of adverse effects can be DIRECTION when DRUG_A is combined with DihydroDRUG_A.
+79. The risk or severity of adverse effects can be DIRECTION when DRUG_A is combined with EsDRUG_A.
+80. The risk or severity of adverse effects can be DIRECTION when DRUG_A is combined with EthylDRUG_A.
+81. The risk or severity of adverse effects can be DIRECTION when DRUG_A is combined with FluDRUG_A.
+82. The risk or severity of adverse effects can be DIRECTION when DRUG_A is combined with FosDRUG_A.
+83. The risk or severity of adverse effects can be DIRECTION when DRUG_A is combined with HydroDRUG_A.
+84. The risk or severity of adverse effects can be DIRECTION when DRUG_A is combined with HydroxyDRUG_A.
+85. The risk or severity of adverse effects can be DIRECTION when DRUG_A is combined with LevoDRUG_A.
+86. The risk or severity of adverse effects can be DIRECTION when DRUG_A is combined with MeDRUG_A.
+87. The risk or severity of adverse effects can be DIRECTION when DRUG_A is combined with MethDRUG_A bromide.
+88. The risk or severity of adverse effects can be DIRECTION when DRUG_A is combined with MethDRUG_A.
+89. The risk or severity of adverse effects can be DIRECTION when DRUG_A is combined with MethylDRUG_A.
+90. The risk or severity of adverse effects can be DIRECTION when DRUG_A is combined with NorDRUG_A.
+91. The risk or severity of adverse effects can be DIRECTION when DRUG_A is combined with OxybuDRUG_A.
+92. The risk or severity of adverse effects can be DIRECTION when DRUG_A is combined with PseudoDRUG_A.
+93. The risk or severity of adverse effects can be DIRECTION when DRUG_A is combined with TrDRUG_A.
+94. The risk or severity of adverse effects can be DIRECTION when DRUG_A is combined with TrifluDRUG_A.
+95. The risk or severity of bleeding can be DIRECTION when DRUG_A is combined with DRUG_B.
+96. The risk or severity of heart failure can be DIRECTION when DRUG_B is combined with DRUG_A.
+97. The risk or severity of hyperkalemia can be DIRECTION when DRUG_A is combined with DRUG_B.
+98. The risk or severity of hypertension can be DIRECTION when DRUG_B is combined with DRUG_A.
+99. The risk or severity of hypotension can be DIRECTION when DRUG_A is combined with DRUG_B.
+100. The serum concentration of DRUG_B can be DIRECTION when it is combined with DRUG_A.
+101. The serum concentration of FosDRUG_A can be DIRECTION when it is combined with DRUG_A.
+102. The serum concentration of the active metabolites of DRUG_B can be DIRECTION when DRUG_B is used in combination with DRUG_A resulting in a loss in efficacy.
+103. The serum concentration of the active metabolites of DRUG_B can be DIRECTION when DRUG_B is used in combination with DRUG_A.
+104. The therapeutic efficacy of DRUG_B can be DIRECTION when used in combination with DRUG_A.
